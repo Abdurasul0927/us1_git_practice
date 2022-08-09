@@ -6,4 +6,8 @@ public class Movie {
 
     //Everything good
 
+    //Middle part
+
+    //Going well
+
 }
